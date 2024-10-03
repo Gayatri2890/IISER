@@ -1,0 +1,1535 @@
+
+
+   .logo-right img{ 
+
+    width: 480px;
+    height: 90px;
+  }
+.logo-left img {
+  padding-left: 60px;
+}
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+  .logo-right img{
+    width: 492px;    
+   
+  }
+.logo-left img {
+  width: 157px;
+        margin-left: 26px;
+    
+}
+
+}
+
+@media only screen and  (min-width: 576px) and  (max-width: 767px) {
+
+  .logo-right img{
+    
+   width:360px;
+  }
+.logo-left img {
+ 
+  width:140px;  
+}
+
+}
+
+@media only screen and  (max-width: 575px) {
+
+  .logo-right img{
+    
+   width:270px;
+  }
+.logo-left img {
+ 
+  width:100px;  
+}
+
+}
+
+@media only screen and  (max-width: 400px) {
+
+  .logo-right{
+    width:70%; 
+    
+  }
+    
+  
+.logo-left {
+ 
+  width:30%;  
+}
+
+.logo-right img{
+    
+  width: 200px;
+  padding-top: 9px;
+ }
+.logo-left img {
+
+  width: 70px;  
+}
+
+}
+
+@media only screen and  (max-width: 1297px) {
+  .logo-2{
+    width: 720px;
+
+  }
+  
+}   
+
+@media only screen and  (max-width: 1200px) {
+  .logo-2{
+    width: 630px;
+
+  }
+  
+}  
+@media only screen and  (max-width: 1052px) {
+  .logo-2{
+    width: 550px;
+
+  }
+  
+} 
+@media only screen and  (max-width: 926px) {
+  .logo-1{
+    width: 150px;
+
+  }
+  .logo-2{
+    width: 500px;
+  }
+  
+} 
+
+ 
+@media only screen and  (max-width: 840px) {
+  .logo-1{
+    width: 130px;
+
+  }
+  .logo-2{
+    width: 400px;
+  }
+  
+} 
+
+@media only screen and  (max-width: 682px) {
+  .logo-1{
+    width: 120px;
+    
+    padding-bottom: 10px;
+  }
+  .logo-2{
+   
+    width: 350px;
+        padding-top: 5px;
+  }
+  
+}
+
+@media only screen and  (max-width: 590px) {
+
+  .logo-1{
+    width: 120px;
+    
+    padding-bottom: 10px;
+  }
+  .logo-2{
+   
+    width: 350px;
+        padding-top: 5px;
+  }
+  
+  .left-logo-container{
+    width: 150px;
+    
+  }
+}
+
+@media only screen and  (max-width: 500px) {
+
+  .logo-1{
+    width: 100px;
+   
+  }
+  .logo-2{
+   
+    width: 320px;  
+  }
+
+}
+
+
+@media only screen and  (max-width: 470px) {
+
+  .logo-1{
+    width: 70px;
+   
+  }
+  .logo-2{
+   
+    width: 290px;  
+  }
+
+}
+@media only screen and  (max-width: 440px) {
+
+  
+  
+  .left-logo-container{
+    width: 90px;
+    
+  }
+}
+@media only screen and  (max-width: 374px) {
+
+  
+  
+  .left-logo-container{
+    width: 70px;
+    
+  }
+}
+@media only screen and  (max-width: 360px) {
+
+  
+  
+  .left-logo-container{
+    width: 70px;
+    
+  }
+  
+  .logo-1{
+    width: 70px;
+   
+  }
+  .logo-2{
+   
+    width: 220px;  
+  }
+
+}
+
+
+
+@media only screen and (max-width:1272px){
+  .Head-1{
+    position: absolute;
+    right: 0px;
+  }
+
+
+}
+@media only screen and (max-width:1088px){
+  .Head-1{
+    background-color:  #d3d3d3;
+    width: 600px;
+  }
+
+
+}
+
+@media only screen and (max-width:992px){
+  .Head-1{
+    background-color:#d3d3d3 ;
+    width: 600px;
+  }
+
+
+}
+@media only screen and (max-width:943px) {
+  
+  .Head-1{
+    display: none;
+  }
+}
+
+@media only screen and (max-width:942px){
+  .Dreams{
+  
+   font-size: 40px;
+  }
+}
+@media only screen and (max-width:769px){
+  .Dreams{
+  
+   font-size: 40px;
+   width: 60%;
+  }
+}
+@media only screen and (max-width:641px){
+  .Dreams{
+  
+   font-size: 30px;
+   width: 60%;
+  }
+}
+@media only screen and (max-width:573px){
+  .Dreams{
+  margin-bottom: 70px;
+   font-size: 30px;
+   width: 60%;
+  }
+}
+@media only screen and (max-width:525px){
+  .Dreams{
+  margin-bottom: 50px;
+   font-size: 30px;
+   width: 60%;
+  }
+}
+
+@media only screen and (max-width:481px){
+  .Dreams{
+  margin-bottom: 50px;
+   font-size: 25px;
+   width: 60%;
+  }
+}
+@media only screen and (max-width:460px){
+  .Dreams{
+  margin-bottom: 35px;
+   font-size: 25px;
+   width: 60%;
+  }
+}
+
+@media only screen and (max-width:414px){
+  .Dreams{
+  margin-bottom: 35px;
+   font-size: 25px;
+   width: 60%;
+   margin-left: 80px;
+  }
+}
+@media only screen and (max-width:400px){
+  .Dreams{
+  margin-bottom: 35px;
+   font-size: 22px;
+   width: 60%;
+   margin-left: 80px;
+  }
+}
+@media only screen and (max-width:300px){
+  .Dreams{
+  margin-bottom: 15px;
+   font-size: 15px;
+   width: 60%;
+   margin-left: 80px;
+  }
+}
+
+@media only screen and (min-width:360px) and (max-width:465px){
+  .Dreams{
+  margin-bottom: 60px;
+   font-size: 20px;
+   width: 50%;
+   margin-left: 50px;
+   
+  }
+}
+
+
+@media only screen and (min-width:360px) and (max-width:384px){
+  .Dreams{
+  margin-bottom: 60px;
+   font-size: 18px;
+   width: 50%;
+   margin-left: 50px;
+   
+  }
+}
+
+
+
+@media only screen and (max-width:942px){
+  .box-container{
+     height: 60px;
+     width: 600px;
+   
+  }
+  .box1{
+    font-size:18px ;
+   
+  }
+  .box2{
+    font-size:18px ;
+  }
+  .box3{
+    font-size:18px ;
+  }
+}
+@media only screen and (max-width:600px){
+  .box-container{
+     height: 60px;
+     width: 100%;
+     border-top-left-radius: 0px;
+  }
+  .box1{
+    font-size:18px ;
+    border-top-left-radius: 0px;
+  }
+  .box2{
+    font-size:18px ;
+  }
+  .box3{
+    font-size:18px ;
+  }
+}
+
+@media only screen and (max-width:566px){
+  .box-container{
+     height: 60px;
+     width: 100%;
+  }
+  .box1{
+    font-size:12px ;
+  }
+  .box2{
+    font-size:12px ;
+  }
+  .box3{
+    font-size:12px ;
+  }
+}
+
+@media only screen and (max-width:476px){
+  .box-container{
+     height: 60px;
+     width: 100%;
+  }
+  .box1{
+    font-size:11px ;
+  }
+  .box2{
+    font-size:11px ;
+  }
+  .box3{
+    font-size:11px ;
+  }
+}
+
+@media only screen and (max-width:463px){
+  .box-container{
+     height: 60px;
+     width: 100%;
+  }
+  .box1{
+    font-size:10px ;
+  }
+  .box2{
+    font-size:10px ;
+  }
+  .box3{
+    font-size:10px ;
+  }
+}
+
+@media only screen and (max-width:433px){
+  .box-container{
+     height: 60px;
+     width: 100%;
+     
+  }
+  .box {
+    padding: 20px 30px;
+
+  }
+
+  .box1{
+    font-size:10px ;
+  }
+  .box2{
+    font-size:10px ;
+  }
+  .box3{
+    font-size:10px ;
+  }
+}
+@media only screen and (min-width:360px) and (max-width:433px){
+  .box-container{
+     height: 60px;
+     width: 100%;
+     
+  }
+  .box {
+    padding: 20px 30px;
+
+  }
+
+  .box1{
+    font-size:10px ;
+  }
+  .box2{
+    font-size:10px ;
+  }
+  .box3{
+    font-size:10px ;
+  }
+}
+
+/* @media only screen and (max-width:767px){
+  .container_img_3{
+       height: ;
+  }
+
+} */
+
+@media only screen and (max-width:718px){
+  .nav_btn{
+    font-size: 1em;
+  font-weight: 500;
+  }
+  
+}
+
+
+@media only screen and (min-width:570px) and (max-width:714px){
+  .nav_btn{
+    font-size: 0.5em;
+  font-weight: 300 ;
+  
+  }
+  
+}
+
+
+@media only screen and (min-width:360px) and (max-width:425px){
+  .nav_btn{
+    font-size: 0.8em !important;
+  font-weight: 300 ;
+  
+  }
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*  navbar font size at certain width */
+@media only screen and (min-width: 1106px) and (max-width: 1242px) {
+
+  .nav_bar {
+      
+    font-size: 14px;
+  }
+
+
+}
+
+/* navbar font size at certain width */
+@media only screen and (min-width: 992px) and (max-width: 1105px) {
+
+  .nav_bar {
+
+    font-size: 12px;
+
+  }
+}
+
+/*  navbar style  at certain width */
+@media only screen and (max-width: 992px) {
+
+  .nav_bar {
+
+    border-radius: 0px;
+  }
+
+  .nav_bar>.row {
+    background-color: #a51111;
+
+
+  }
+
+  .search-bar .search-icon {
+    position: absolute;
+    top: 19px;
+  }
+
+
+
+
+
+
+
+  .nav_bar_width .navbar-collapse {
+
+    position: relative;
+    width: 100vw;
+    padding: 10px 0px;
+    text-align: center;
+  }
+
+  .nav_bar a.nav-link {
+
+    padding-top: 7px;
+
+  }
+}
+
+
+@media only screen and (max-width: 399px) {
+
+
+  .nav_btn {
+
+    display: none;
+  }
+
+  .w-sm-50 {
+    width: 50%;
+  }
+
+  .search-bar .search-icon {
+
+    right: 20px;
+  }
+
+
+}
+
+/* Stylng the navbar style  at certain width */
+@media only screen and (max-width: 828px) {
+
+  .nav_btn {
+    font-size: 0.9em;
+  }
+
+}
+
+/* Stylng the banner and Tabs font size at certain width */
+
+@media only screen and (max-width: 1109px) {
+
+  .home {
+    width: 61%;
+
+  }
+
+
+
+
+}
+
+/* Setting a font size to the banner heading and tabs  at max-width of 909*/
+@media only screen and (max-width: 909px) {
+
+  .home {
+    font-size: 2.0625em;
+
+  }
+
+  .tab {
+
+    font-size: 1em;
+
+
+  }
+
+
+}
+
+/* Setting a font size to the banner heading  at max-width of 526*/
+@media only screen and (max-width: 526px) {
+
+  .home {
+    margin-bottom: 99px;
+    margin-left: 40px;
+    width: 73%;
+
+  }
+
+
+
+}
+
+/* Stylng the  Tabs width at certain width */
+@media only screen and (max-width: 701px) {
+
+
+  .tab:nth-child(1) {
+
+
+    padding-right: 40px;
+    padding-left: 72px;
+  }
+
+  .tab:nth-child(2) {
+
+    padding-left: 51px;
+    padding-right: 40px;
+  }
+
+  .tab:nth-child(3) {
+
+
+    padding-left: 43px;
+    padding-right: 75px;
+
+  }
+
+
+}
+
+/* Stylng the banner and Tabs font size at certain width */
+@media only screen and (max-width: 612px) {
+
+
+  .home {
+    font-size: 1.7625em;
+
+  }
+  .nav_btn{
+    font-weight: 400;
+  }
+
+}
+
+@media only screen and (max-width:401px){
+  .home {
+    font-size: 1.678em;
+}}
+
+
+/* Stylng the  Tabs width at certain width */
+@media only screen and (max-width: 529px) {
+
+  .tab {
+
+    font-weight: 400;
+
+
+  }
+  .tab:nth-child(1) {
+
+
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+
+  .tab:nth-child(2) {
+
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .tab:nth-child(3) {
+    padding-left: 15px;
+    padding-right: 55px;
+  }
+  .campus_provides h6{
+    font-size: 1.5em;
+  }
+  .campus_provides p{
+    font-size: 0.75em;
+    font-weight: 300;
+    
+  }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+/* @media only screen and (max-width:432px){
+  .campus_provides_container{
+    top: -50px;
+  }
+ 
+   .container_img_3{
+    top: 200px !important;
+    width:250px ;
+  }  
+ .image-container{
+  width: 100% !important;
+
+ 
+} 
+
+  .container_img_2{
+  top: 170px !important;
+
+
+}  
+} */
+
+
+/* Stylng the  Tabs width at certain width */
+@media only screen and (max-width: 428px) {
+
+
+  .tab:nth-child(1) {
+
+
+    padding-right: 12px;
+    padding-left: 12px;
+  }
+
+  .tab:nth-child(2) {
+
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+
+  .tab:nth-child(3) {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+
+  .tab {
+
+    font-size: 0.8em;
+    padding: 10px 0px;
+
+  }
+
+}
+
+/* Stylng the  Tabs width at certain width */
+@media only screen and (max-width: 390px) {
+
+
+
+  .tab {
+
+
+    padding: 5px 0px;
+    
+  }
+
+  .tab_container {
+
+   
+border-top-left-radius: 0px;
+}
+
+.tab:nth-child(1) {
+
+ 
+  border-top-left-radius: 0px;
+
+}
+
+
+
+
+}
+
+/* Stylng the  Banner  width at certain width */
+@media only screen and (max-width: 351px) {
+
+
+
+  .home {
+    font-size: 1.625em;
+    width: 79%;
+  }
+
+}
+
+/* Giving a costom class of height and width which can be added to certain elements */
+@media (min-width: 992px) {
+  .h-lg-100 {
+    height: 100%;
+  }
+
+  .w-lg-75 {
+    width: 75%;
+  }
+}
+
+/* Giving a costom class of  width which can be added to certain elements */
+@media (min-width: 992px) and (max-width: 1272px) {
+  .col-100 {
+    width: 100%;
+
+  }
+
+  
+}
+
+/* Giving the curtain font sizes to subheader element */
+@media (max-width: 1272px) {
+  
+
+  .text-1-container{
+   
+    /* width:100%; */
+    text-align: center;
+    
+  }
+  .text-2-container{
+   
+    /* width:100%; */
+    text-align: center;
+ 
+  }
+   .sub-head-second-part{
+    width: 100%;
+   }
+  .text-3-4-container{
+   
+    width:50%;
+    text-align: center;
+  }
+  
+  .all-btns-container{
+  
+    width:50%;
+    text-align: center;
+  }
+}
+
+/* Giving the curtain font sizes to subheader element */
+@media (max-width: 576px) {
+  
+  .text-1-container{
+    font-size: 0.88em;
+    position: absolute;
+    z-index: 01;
+    background-color: #d3d3d3;
+    min-width: 118px;
+    
+  }
+  .text-2-container{
+    font-size: 0.75em;
+    position: absolute;
+    right: 0px;
+  }
+   
+  .text-3-4-container{
+   
+    width:100%;
+    text-align: center;
+    margin-top: 26px;
+  }
+  .txt_btn{
+    font-size: 0.88em;
+    text-align: center;
+  }
+  
+  .all-btns-container{
+   
+    width:100%;
+    text-align: center;
+  }
+}
+@media only screen and (max-width: 943px) {
+  .float_btns_container{
+    display: block;
+  
+}}
+
+
+
+
+
+/* about */
+
+@media only screen and (max-width: 1359px) {
+
+
+  .container_img_1 {
+    height: 303px;
+    width: 344px
+  }
+
+  .container_img_2 {
+    height: 198px;
+    width: 209px
+  }
+
+
+
+}
+
+/* Giving the curtain height and width  to images element */
+@media only screen and (max-width: 1179px) {
+
+
+  .container_img_1 {
+
+    bottom: 28px;
+    left: -14px;
+  }
+
+  .container_img_2 {
+    bottom: 290px;
+    left: 266px;
+  }
+
+}
+
+/* Giving the curtain height and width  to images element */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+
+  .container_img_1 {
+    height: 212px;
+    width: 241px;
+    bottom: 28px;
+    left: 0px;
+  }
+
+  .container_img_2 {
+    height: 139px;
+    width: 146px;
+    top: -70px;
+    left: 210px;
+  }
+
+}
+
+
+@media only screen and (max-width: 768px) {
+
+
+  .campus_provides_container {
+
+    left: 0px;
+  }
+
+}
+
+/* Giving the curtain font size to  about section texts */
+@media only screen and (max-width: 909px) {
+
+
+  .about_iiser h2 {
+
+    font-size: 2.0625em;
+
+  }
+
+  .about_campus h2 {
+    font-size: 2.0625em;
+  }
+
+
+}
+
+/* Giving the curtain position  to images element */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+
+
+  .container_img_1 {
+
+    bottom: 0px;
+    left: 0px;
+  }
+
+  .container_img_2 {
+
+    top: 36px;
+    left: 264px;
+  }
+
+  .about_campus {
+
+    top: 0px;
+  }
+
+}
+
+/* Giving the curtain position  to images element */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+
+
+  .container_img_1 {
+
+    bottom: 0px;
+    left: 0px;
+  }
+
+  .container_img_2 {
+
+    top: 36px;
+    left: 264px;
+  }
+
+  .about_campus {
+
+    top: 0px;
+  }
+
+}
+
+/* Giving the curtain position  to images element */
+@media only screen and (max-width: 575px) {
+
+
+  .container_img_1 {
+    height: 250px;
+    width: 300px;
+    bottom: 0px;
+
+  }
+
+  .container_img_2 {
+
+    height: 150px;
+    width: 166px;
+    top: 12px;
+    left: 217px;
+  }
+
+
+  .about_campus {
+
+    top: 0px;
+  }
+
+}
+
+/* Giving the curtain height and width  to images element */
+@media only screen and (max-width: 386px) {
+
+
+  .container_img_1 {
+    height: 150px;
+    width: 200px;
+
+
+  }
+
+  .container_img_2 {
+
+    height: 80px;
+    width: 80px;
+    top: 34px;
+    left: 196px;
+  }
+
+
+  .about_campus {
+
+    top: 0px;
+  }
+
+}
+
+
+
+/* Giving the curtain height and width  to images element */
+
+/* @media only screen and (max-width: 1359px) {
+
+
+  .container_img_1 {
+    height: 303px;
+    width: 344px
+  }
+
+  .container_img_2 {
+    height: 198px;
+    width: 209px
+  }
+
+
+
+} */
+
+/* Giving the curtain height and width  to images element */
+/* @media only screen and (max-width: 1179px) {
+
+
+  .container_img_1 {
+
+    bottom: 28px;
+    left: -14px;
+  }
+
+  .container_img_2 {
+    bottom: 290px;
+    left: 266px;
+  }
+
+}
+
+
+
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+
+  .container_img_1 {
+    height: 212px;
+    width: 241px;
+    bottom: 28px;
+    left: 0px;
+  }
+
+  .container_img_2 {
+    height: 139px;
+    width: 146px;
+    top: -70px;
+    left: 210px;
+  }
+
+}
+
+
+@media only screen and (max-width: 768px) {
+
+
+  .campus_provides_container {
+
+    left: 0px;
+  }
+
+} */
+
+/* Giving the curtain font size to  about section texts */
+/* @media only screen and (max-width: 909px) {
+
+
+  .about_iiser h2 {
+
+    font-size: 2.0001em;
+
+
+  } 
+
+
+  .about_campus h2 {
+    font-size: 2.0625em;
+  }
+
+
+}
+
+@media only screen and (max-width:1179px) {
+
+  .container_img_2{
+  
+    left: 350px;
+        top: -88px;
+  }
+  .container_img_3{
+    left: 45px;
+    height: 400px;
+
+   
+  }
+}
+@media only screen and (max-width:749px){
+  .container_img_3{
+    left: 45px;
+    height: 300px;
+    top:100px;
+
+   
+  }
+} */
+
+/* 
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+
+
+  .container_img_1 {
+
+    bottom: 0px;
+    left: 0px;
+  }
+
+  .container_img_2 {
+
+    top: 36px;
+    left: 264px;
+  }
+
+  .about_campus {
+
+    top: 0px;
+  }
+
+}
+
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+
+
+  .container_img_1 {
+
+    bottom: 0px;
+    left: 0px;
+  }
+
+  .container_img_2 {
+
+    top: 36px;
+    left: 264px;
+  }
+
+  .about_campus {
+
+    top: 0px;
+  }
+
+}
+
+
+@media only screen and (max-width: 575px) {
+
+
+  .container_img_1 {
+    height: 250px;
+    width: 300px;
+    bottom: 0px;
+
+  }
+
+  .container_img_2 {
+
+    height: 150px;
+    width: 166px;
+    top: 12px;
+    left: 217px;
+  }
+
+
+  .about_campus {
+
+    top: 0px;
+  }
+
+}
+
+
+@media only screen and (max-width: 386px) {
+
+
+  .container_img_1 {
+    height: 150px;
+    width: 200px;
+
+
+  }
+
+  .container_img_2 {
+
+    height: 80px;
+    width: 80px;
+    top: 34px;
+    left: 196px;
+  }
+
+
+  .about_campus {
+
+    top: 0px;
+  }
+
+} */
+
+/*  fontsize to tabs for you seection and cot section  */
+@media only screen and (max-width: 991px) {
+
+
+  .nav-tabs .nav-link {
+
+    font-size: 1.370em;
+
+  }
+  .nav-tabs .nav-link:hover::after {
+
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-top: 10px solid #d02a2a;
+    bottom: 0px;
+   
+  }
+
+  .nav-tabs .nav-link.active::after {
+  
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-top: 10px solid #d02a2a;
+    bottom: 0px;
+    
+
+}
+
+  .cot_heading {
+
+    font-size: 1.470em;
+
+
+  }
+  .at_iiser_heading{
+    font-size: 1.470em;
+  }
+
+}
+
+/* Giving a certain width and height and font size to  all Buttons element */
+@media only screen and (max-width: 991px) {
+
+
+  .news_evt_btn button {
+    font-size: 1.025em;
+    padding: 10px 55px;
+  }
+
+  .cot_btn button {
+    font-size: 1.025em;
+    padding: 10px 55px;
+  }
+
+  .at_iiser_vid_btn button {
+    font-size: 1.025em;
+    padding: 10px 55px;
+  }
+
+
+}
+
+/* Giving a certain width and height and font size to  all Buttons element */
+@media only screen and (max-width: 768px) {
+
+
+  .news_evt_btn button {
+    font-size: 1.025em;
+    padding: 8px 45px;
+  }
+
+  .cot_btn button {
+    font-size: 1.025em;
+    padding: 8px 45px;
+  }
+
+  .at_iiser_vid_btn button {
+    font-size: 1.025em;
+    padding: 8px 45px;
+  }
+
+
+}
+
+/*Giving a certain font size to  navtabs */
+@media only screen and (max-width: 767px) {
+
+
+  .nav-tabs .nav-link {
+
+
+    font-size: 1.2em;
+    padding: 3px;
+
+  }
+
+  .nav-tabs .nav-link:hover::after {
+
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-top: 10px solid #d02a2a;
+    bottom: -5px;
+   
+  }
+
+  .nav-tabs .nav-link.active::after {
+  
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-top: 10px solid #d02a2a;
+    bottom: -5px;
+    
+
+}
+
+
+
+}
+
+/*Giving a certain font size to  navtabs */
+@media only screen and (max-width: 535px) {
+
+
+  .nav-tabs .nav-link {
+
+
+    font-size: 0.75em;
+    padding: 7px;
+
+  }
+
+  .nav-tabs .nav-link:hover::after {
+
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-top: 10px solid #d02a2a;
+    bottom: -2px;
+   
+  }
+
+  .nav-tabs .nav-link.active::after {
+  
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-top: 10px solid #d02a2a;
+    bottom: -2px;
+    
+
+}
+
+
+
+}
+
+/* Giving a certaing font-size to CArds and footer*/
+@media only screen and (max-width: 991px) {
+
+  .subj_title p {
+    font-size: 1.2875em;
+  
+
+}
+  .card_desc p {
+    font-size: 1em;
+  
+}
+
+footer h6 {
+  font-size: 1.37em;
+  
+}
+
+}
